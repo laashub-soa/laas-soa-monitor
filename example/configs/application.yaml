@@ -1,0 +1,20 @@
+server:
+  port: 8080
+api:
+  token: 1
+# 归属人名称
+owner_2_name:
+  1: 1
+# 归属人手机号码
+owner_2_phone:
+  1: 1
+# 钉钉webhook配置
+dingding_webhook_access_token:
+  - 1
+# 错误日志-最大容忍次数
+serious_error:
+  maximum_tolerance_count: 50
+# 服务归属人
+owner_2_service:
+  1:
+    - 1
